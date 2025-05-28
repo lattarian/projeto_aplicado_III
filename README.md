@@ -10,5 +10,5 @@ Este repositório contém o projeto de análise de dados desenvolvido para a dis
 - Maria Fernanda Salles Vasconcellos
 
 ## Apresentação do Projeto
-- [Texto do link](https://github.com/lattarian/projeto_aplicado_III/blob/main/Projeto_Aplicado_III.pdf)
+- [Projeto](https://github.com/lattarian/projeto_aplicado_III/blob/main/Projeto_Aplicado_III.pdf)
 - [Apresentação no Youtube]
