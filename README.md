@@ -11,4 +11,4 @@ Este repositório contém o projeto de análise de dados desenvolvido para a dis
 
 ## Apresentação do Projeto
 - [Projeto](https://github.com/lattarian/projeto_aplicado_III/blob/main/Projeto_Aplicado_III.pdf)
-- [Apresentação no Youtube]
+- [Apresentação no Youtube] (https://youtu.be/3TRJUm6QfqA)
